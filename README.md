@@ -1,4 +1,4 @@
-# AMS_325-Python
+# Madelbrot & Marcov_chain
 * Python Code
   * mandelbrot.py
   * markov_chain.py
